@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ViDeLa00
+- 👀 I’m interested in propulsion and aerodynamics
+- 🌱 I’m currently studying at TU Delft
+- 📫 How to reach me: vdelauso@gmail.com
