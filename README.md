@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ViDeLa00
-- 👀 I’m interested in propulsion and aerothermodynamics, specifically in combustion
-- 🌱 I’m currently studying at TU Delft - MSc Aerospace Engineering - Propulsion and Power Profile
-- 📫 How to reach me: vdelauso@gmail.com
+- 👀 I’m interested in aerothermodynamics, specifically in CFD of reactive flows
+- 🌱 I’m currently a PhD candidate at TU Delft
+- 📫 How to reach me: vdelauso@gmail.com/V.DeLauso@tudelft.nl
